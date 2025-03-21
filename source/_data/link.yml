@@ -1,0 +1,33 @@
+- class_name: 友情链接
+  link_list:
+    - name: CloudBillow
+      link: https://cloudbillow.cn/
+      avatar: https://cloudbillow.cn/img/setting/avatar.jpg
+      descr: people
+
+    - name: Justtyn
+      link: https://justtyn.github.io/
+      avatar: https://justtyn.github.io/image/IMG_2189.JPG
+      descr: people
+
+
+- class_name: 网站
+  link_list:
+      - name: github
+        link: https://github.com
+        avatar: https://github.com/
+        descr: github
+  #    2:
+  #      name: xx
+  #      link: https://www.axxxx.cn/
+  #      avatar: https://x
+  #      descr: xx
+
+
+
+
+
+
+
+
+
